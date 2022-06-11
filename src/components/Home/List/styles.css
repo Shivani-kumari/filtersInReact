@@ -1,0 +1,6 @@
+.list-wrap{
+    display: grid;
+     /* 3 column and one row */
+    grid-template-columns: repeat(3,1fr); 
+    grid-gap:2rem;
+}
